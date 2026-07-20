@@ -85,6 +85,8 @@ Contributions, suggestions, and improvements are always welcome. Feel free to op
 
 A complete walkthrough of this project—including the PCB design in Altium Designer, firmware development in STM32CubeIDE, hardware explanation, and live demonstration—is available on the Sly Fox Electronics YouTube channel.
 
+UC24fcTqgswaZkPQFimSFBrg
+
 If you find this project helpful, consider watching the video and subscribing to support future open-source embedded systems and PCB design projects.
 
 ## 📄 License
