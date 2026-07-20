@@ -1,0 +1,37 @@
+Added Component: Designator=C1(Capacitor_SMD_0805)
+Added Component: Designator=C2(Capacitor_SMD_Electrolyte_2.2uF)
+Added Component: Designator=D1(LED_SMD_0805)
+Added Component: Designator=J1(USB_C_6_pin)
+Added Component: Designator=R1(Resistor_SMD_0805)
+Added Component: Designator=R2(Resistor_SMD_0805)
+Added Component: Designator=R3(Resistor_SMD_0805)
+Added Component: Designator=U1(LF33)
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3v3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=LED_Anode Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=CC1 Pin=J1-A5
+Added Pin To Net: NetName=+5V Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=CC2 Pin=J1-B5
+Added Pin To Net: NetName=+5V Pin=J1-B9
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=LED_Anode Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=CC1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=CC2 Pin=R3-2
+Added Pin To Net: NetName=+5V Pin=U1-1
+Added Pin To Net: NetName=+3v3 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component C1 Capacitor_SMD_0805_100nF
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component C2 Capacitor_SMD_Electrolyte_2.2uF
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component D1 LED_SMD_0805
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component J1 USB_C_6_pin
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component R1 resistor smd 0805 330 ohm
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component R2 resistor smd 0805 5.1k ohm
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component R3 resistor smd 0805 5.1k ohm
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component U1 LF33_DPAK

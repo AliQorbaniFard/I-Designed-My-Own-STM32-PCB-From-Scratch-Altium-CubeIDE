@@ -1,0 +1,151 @@
+Change Component Comment : Designator=C2 Old Comment=Capacitor_SMD_0805_100nF New Comment=100nF
+Change Component Comment : Designator=C1 Old Comment=Capacitor_SMD_Electrolyte_2.2uF New Comment=2.2uF
+Change Component Comment : Designator=R2 Old Comment=resistor smd 0805 New Comment=5.1k ohm
+Change Component Comment : Designator=R3 Old Comment=resistor smd 0805 New Comment=5.1k ohm
+Change Component Comment : Designator=R1 Old Comment=resistor smd 0805 New Comment=330 ohm
+Change Component Designator: OldDesignator=C1 NewDesignator=C200
+Change Component Designator: OldDesignator=C2 NewDesignator=C201
+Change Component Designator: OldDesignator=D1 NewDesignator=D200
+Change Component Designator: OldDesignator=J1 NewDesignator=J200
+Change Component Designator: OldDesignator=R1 NewDesignator=R200
+Change Component Designator: OldDesignator=R2 NewDesignator=R201
+Change Component Designator: OldDesignator=R3 NewDesignator=R202
+Change Component Designator: OldDesignator=T1 NewDesignator=T200
+Change Component Designator: OldDesignator=T2 NewDesignator=T201
+Change Component Designator: OldDesignator=T3 NewDesignator=T202
+Change Component Designator: OldDesignator=U1 NewDesignator=U200
+Added Component: Designator=C300(Capacitor_SMD_0805)
+Added Component: Designator=C301(Capacitor_SMD_0805)
+Added Component: Designator=C302(Capacitor_SMD_0805)
+Added Component: Designator=C303(Capacitor_SMD_0805)
+Added Component: Designator=C304(Capacitor_SMD_0805)
+Added Component: Designator=C305(Capacitor_SMD_0805)
+Added Component: Designator=C306(Capacitor_SMD_0805)
+Added Component: Designator=C307(Capacitor_SMD_0805)
+Added Component: Designator=C308(Capacitor_SMD_0805)
+Added Component: Designator=D300(LED_SMD_0805)
+Added Component: Designator=J300(Header4)
+Added Component: Designator=R300(Resistor_SMD_0805)
+Added Component: Designator=R301(Resistor_SMD_0805)
+Added Component: Designator=R302(Resistor_SMD_0805)
+Added Component: Designator=U300(STM32f103c8t6_LQFP48)
+Added Pin To Net: NetName=GND Pin=C200-1
+Added Pin To Net: NetName=GND Pin=C300-2
+Added Pin To Net: NetName=GND Pin=C301-1
+Added Pin To Net: NetName=GND Pin=C301-2
+Added Pin To Net: NetName=GND Pin=C302-1
+Added Pin To Net: NetName=GND Pin=C302-2
+Added Pin To Net: NetName=GND Pin=C303-1
+Added Pin To Net: NetName=GND Pin=C303-2
+Added Pin To Net: NetName=GND Pin=C304-1
+Added Pin To Net: NetName=GND Pin=C304-2
+Added Pin To Net: NetName=GND Pin=C305-1
+Added Pin To Net: NetName=GND Pin=C305-2
+Added Pin To Net: NetName=GND Pin=C306-1
+Added Pin To Net: NetName=GND Pin=C306-2
+Added Pin To Net: NetName=GND Pin=C307-2
+Added Pin To Net: NetName=GND Pin=C308-2
+Added Pin To Net: NetName=GND Pin=D300-2
+Added Pin To Net: NetName=GND Pin=J300-1
+Added Pin To Net: NetName=GND Pin=J300-4
+Added Pin To Net: NetName=GND Pin=R301-2
+Added Pin To Net: NetName=GND Pin=R302-2
+Added Pin To Net: NetName=GND Pin=T201-1
+Added Pin To Net: NetName=GND Pin=U200-3
+Added Pin To Net: NetName=GND Pin=U300-1
+Added Pin To Net: NetName=GND Pin=U300-8
+Added Pin To Net: NetName=GND Pin=U300-9
+Added Pin To Net: NetName=GND Pin=U300-23
+Added Pin To Net: NetName=GND Pin=U300-24
+Added Pin To Net: NetName=GND Pin=U300-35
+Added Pin To Net: NetName=GND Pin=U300-36
+Added Pin To Net: NetName=GND Pin=U300-47
+Added Pin To Net: NetName=GND Pin=U300-48
+Change Net Name : Old Net Name=GND New Net Name=+3v3
+Change Net Name : Old Net Name=LED_Anode New Net Name=Power_LED_Anode
+Added Pin To Net: NetName=MCU_LED_Anode Pin=D300-1
+Added Pin To Net: NetName=MCU_LED_Anode Pin=R300-2
+Added Net: Name=MCU_LED_Anode
+Added Pin To Net: NetName=NetR301_1 Pin=R301-1
+Added Pin To Net: NetName=NetR301_1 Pin=U300-44
+Added Net: Name=NetR301_1
+Added Pin To Net: NetName=NetU300_10 Pin=U300-10
+Added Net: Name=NetU300_10
+Added Pin To Net: NetName=NetU300_11 Pin=U300-11
+Added Net: Name=NetU300_11
+Added Pin To Net: NetName=NetU300_12 Pin=U300-12
+Added Net: Name=NetU300_12
+Added Pin To Net: NetName=NetU300_13 Pin=U300-13
+Added Net: Name=NetU300_13
+Added Pin To Net: NetName=NetU300_14 Pin=U300-14
+Added Net: Name=NetU300_14
+Added Pin To Net: NetName=NetU300_15 Pin=U300-15
+Added Net: Name=NetU300_15
+Added Pin To Net: NetName=NetU300_16 Pin=U300-16
+Added Net: Name=NetU300_16
+Added Pin To Net: NetName=NetU300_17 Pin=U300-17
+Added Net: Name=NetU300_17
+Added Pin To Net: NetName=NetU300_18 Pin=U300-18
+Added Net: Name=NetU300_18
+Added Pin To Net: NetName=NetU300_19 Pin=U300-19
+Added Net: Name=NetU300_19
+Added Pin To Net: NetName=NetU300_20 Pin=U300-20
+Added Net: Name=NetU300_20
+Added Pin To Net: NetName=NetU300_21 Pin=U300-21
+Added Net: Name=NetU300_21
+Added Pin To Net: NetName=NetU300_22 Pin=U300-22
+Added Net: Name=NetU300_22
+Added Pin To Net: NetName=NetU300_25 Pin=U300-25
+Added Net: Name=NetU300_25
+Added Pin To Net: NetName=NetU300_26 Pin=U300-26
+Added Net: Name=NetU300_26
+Added Pin To Net: NetName=NetU300_27 Pin=U300-27
+Added Net: Name=NetU300_27
+Added Pin To Net: NetName=NetU300_28 Pin=U300-28
+Added Net: Name=NetU300_28
+Added Pin To Net: NetName=NetU300_29 Pin=U300-29
+Added Net: Name=NetU300_29
+Added Pin To Net: NetName=NetU300_30 Pin=U300-30
+Added Net: Name=NetU300_30
+Added Pin To Net: NetName=NetU300_31 Pin=U300-31
+Added Net: Name=NetU300_31
+Added Pin To Net: NetName=NetU300_32 Pin=U300-32
+Added Net: Name=NetU300_32
+Added Pin To Net: NetName=NetU300_33 Pin=U300-33
+Added Net: Name=NetU300_33
+Added Pin To Net: NetName=NetU300_38 Pin=U300-38
+Added Net: Name=NetU300_38
+Added Pin To Net: NetName=NetU300_39 Pin=U300-39
+Added Net: Name=NetU300_39
+Added Pin To Net: NetName=NetU300_40 Pin=U300-40
+Added Net: Name=NetU300_40
+Added Pin To Net: NetName=NetU300_41 Pin=U300-41
+Added Net: Name=NetU300_41
+Added Pin To Net: NetName=NetU300_42 Pin=U300-42
+Added Net: Name=NetU300_42
+Added Pin To Net: NetName=NetU300_43 Pin=U300-43
+Added Net: Name=NetU300_43
+Added Pin To Net: NetName=NetU300_45 Pin=U300-45
+Added Net: Name=NetU300_45
+Added Pin To Net: NetName=NetU300_46 Pin=U300-46
+Added Net: Name=NetU300_46
+Added Pin To Net: NetName=NRST Pin=C300-1
+Added Pin To Net: NetName=NRST Pin=R302-1
+Added Pin To Net: NetName=NRST Pin=U300-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC_IN Pin=C308-1
+Added Pin To Net: NetName=OSC_IN Pin=U300-5
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C307-1
+Added Pin To Net: NetName=OSC_OUT Pin=U300-6
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=PC13 Pin=R300-1
+Added Pin To Net: NetName=PC13 Pin=U300-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=SWCLK Pin=J300-2
+Added Pin To Net: NetName=SWCLK Pin=U300-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J300-3
+Added Pin To Net: NetName=SWDIO Pin=U300-34
+Added Net: Name=SWDIO
+Added Class: Name=U_FoxSense_Microcontroller

@@ -1,0 +1,414 @@
+*************************************************************
+FileName = FoxSense_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Component Center
+      File : FoxSense_PCB.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : FoxSense_PCB.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : FoxSense_PCB.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : FoxSense_PCB.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : FoxSense_PCB.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : FoxSense_PCB.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : FoxSense_PCB.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : FoxSense_PCB.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : FoxSense_PCB.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : FoxSense_PCB.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : FoxSense_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : FoxSense_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : FoxSense_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D29
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : FoxSense_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FoxSense_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D29
+    D39
+    D40
+    D41
+    D42
+    D43
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : FoxSense_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : FoxSense_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : FoxSense_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : FoxSense_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D41
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : FoxSense_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D29
+    D41
+    D48
+    D49
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : FoxSense_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D23
+    D24
+    D29
+    D41
+    D44
+    D45
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : FoxSense_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D41
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : FoxSense_PCB.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : FoxSense_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : FoxSense_PCB.GM
+
+
+Used DCodes :
+    D58
+*************************************************************
+

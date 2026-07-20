@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=+3v3 NewDesignator=T201
+Change Component Designator: OldDesignator=+5V NewDesignator=T202
+Change Component Designator: OldDesignator=GND NewDesignator=T200
+Change Component Designator: OldDesignator=NRST NewDesignator=T300

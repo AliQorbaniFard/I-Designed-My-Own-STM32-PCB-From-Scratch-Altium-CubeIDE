@@ -1,0 +1,240 @@
+Added Component: Designator=C100(Capacitor_SMD_0805)
+Added Component: Designator=C200(Capacitor_SMD_Electrolyte_2.2uF)
+Added Component: Designator=C201(Capacitor_SMD_0805)
+Added Component: Designator=C300(Capacitor_SMD_0805)
+Added Component: Designator=C301(Capacitor_SMD_0805)
+Added Component: Designator=C302(Capacitor_SMD_0805)
+Added Component: Designator=C303(Capacitor_SMD_0805)
+Added Component: Designator=C304(Capacitor_SMD_0805)
+Added Component: Designator=C305(Capacitor_SMD_0805)
+Added Component: Designator=C306(Capacitor_SMD_0805)
+Added Component: Designator=C307(Capacitor_SMD_0805)
+Added Component: Designator=C308(Capacitor_SMD_0805)
+Added Component: Designator=D200(LED_SMD_0805)
+Added Component: Designator=D300(LED_SMD_0805)
+Added Component: Designator=J100(Header15)
+Added Component: Designator=J101(Header4)
+Added Component: Designator=J102(Header15)
+Added Component: Designator=J200(USB_C_6_pin)
+Added Component: Designator=J300(Header4)
+Added Component: Designator=Q100(LM35)
+Added Component: Designator=R100(LDR)
+Added Component: Designator=R101(Resistor_SMD_0805)
+Added Component: Designator=R200(Resistor_SMD_0805)
+Added Component: Designator=R201(Resistor_SMD_0805)
+Added Component: Designator=R202(Resistor_SMD_0805)
+Added Component: Designator=R300(Resistor_SMD_0805)
+Added Component: Designator=R301(Resistor_SMD_0805)
+Added Component: Designator=R302(Resistor_SMD_0805)
+Added Component: Designator=T200(TEST_Point_SMD)
+Added Component: Designator=T201(TEST_Point_SMD)
+Added Component: Designator=T202(TEST_Point_SMD)
+Added Component: Designator=T300(TEST_Point_SMD)
+Added Component: Designator=U200(LF33)
+Added Component: Designator=U300(STM32f103c8t6_LQFP48)
+Added Component: Designator=Y300(Crystal_Resonator_SMD_XTAL)
+Added Pin To Net: NetName=GND Pin=C100-2
+Added Pin To Net: NetName=+3v3 Pin=C200-1
+Added Pin To Net: NetName=GND Pin=C200-2
+Added Pin To Net: NetName=+5V Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C201-2
+Added Pin To Net: NetName=NRST Pin=C300-1
+Added Pin To Net: NetName=GND Pin=C300-2
+Added Pin To Net: NetName=+3v3 Pin=C301-1
+Added Pin To Net: NetName=GND Pin=C301-2
+Added Pin To Net: NetName=+3v3 Pin=C302-1
+Added Pin To Net: NetName=GND Pin=C302-2
+Added Pin To Net: NetName=+3v3 Pin=C303-1
+Added Pin To Net: NetName=GND Pin=C303-2
+Added Pin To Net: NetName=+3v3 Pin=C304-1
+Added Pin To Net: NetName=GND Pin=C304-2
+Added Pin To Net: NetName=+3v3 Pin=C305-1
+Added Pin To Net: NetName=GND Pin=C305-2
+Added Pin To Net: NetName=+3v3 Pin=C306-1
+Added Pin To Net: NetName=GND Pin=C306-2
+Added Pin To Net: NetName=OSC_OUT Pin=C307-1
+Added Pin To Net: NetName=GND Pin=C307-2
+Added Pin To Net: NetName=OSC_IN Pin=C308-1
+Added Pin To Net: NetName=GND Pin=C308-2
+Added Pin To Net: NetName=Power_LED_Anode Pin=D200-1
+Added Pin To Net: NetName=GND Pin=D200-2
+Added Pin To Net: NetName=MCU_LED_Anode Pin=D300-1
+Added Pin To Net: NetName=GND Pin=D300-2
+Added Pin To Net: NetName=+3v3 Pin=J100-14
+Added Pin To Net: NetName=GND Pin=J100-15
+Added Pin To Net: NetName=GND Pin=J101-1
+Added Pin To Net: NetName=+3v3 Pin=J101-2
+Added Pin To Net: NetName=+5V Pin=J102-14
+Added Pin To Net: NetName=GND Pin=J102-15
+Added Pin To Net: NetName=CC1 Pin=J200-A5
+Added Pin To Net: NetName=+5V Pin=J200-A9
+Added Pin To Net: NetName=GND Pin=J200-A12
+Added Pin To Net: NetName=CC2 Pin=J200-B5
+Added Pin To Net: NetName=+5V Pin=J200-B9
+Added Pin To Net: NetName=GND Pin=J200-B12
+Added Pin To Net: NetName=GND Pin=J300-1
+Added Pin To Net: NetName=SWCLK Pin=J300-2
+Added Pin To Net: NetName=SWDIO Pin=J300-3
+Added Pin To Net: NetName=+3v3 Pin=J300-4
+Added Pin To Net: NetName=+5V Pin=Q100-1
+Added Pin To Net: NetName=GND Pin=Q100-3
+Added Pin To Net: NetName=+3v3 Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R101-2
+Added Pin To Net: NetName=Power_LED_Anode Pin=R200-1
+Added Pin To Net: NetName=+5V Pin=R200-2
+Added Pin To Net: NetName=GND Pin=R201-1
+Added Pin To Net: NetName=CC1 Pin=R201-2
+Added Pin To Net: NetName=GND Pin=R202-1
+Added Pin To Net: NetName=CC2 Pin=R202-2
+Added Pin To Net: NetName=PC13 Pin=R300-1
+Added Pin To Net: NetName=MCU_LED_Anode Pin=R300-2
+Added Pin To Net: NetName=NetR301_1 Pin=R301-1
+Added Pin To Net: NetName=GND Pin=R301-2
+Added Pin To Net: NetName=NRST Pin=R302-1
+Added Pin To Net: NetName=+3v3 Pin=R302-2
+Added Pin To Net: NetName=GND Pin=T200-1
+Added Pin To Net: NetName=+3v3 Pin=T201-1
+Added Pin To Net: NetName=+5V Pin=T202-1
+Added Pin To Net: NetName=NRST Pin=T300-1
+Added Pin To Net: NetName=+5V Pin=U200-1
+Added Pin To Net: NetName=+3v3 Pin=U200-3
+Added Pin To Net: NetName=GND Pin=U200-4
+Added Pin To Net: NetName=+3v3 Pin=U300-1
+Added Pin To Net: NetName=PC13 Pin=U300-2
+Added Pin To Net: NetName=OSC_IN Pin=U300-5
+Added Pin To Net: NetName=OSC_OUT Pin=U300-6
+Added Pin To Net: NetName=NRST Pin=U300-7
+Added Pin To Net: NetName=GND Pin=U300-8
+Added Pin To Net: NetName=+3v3 Pin=U300-9
+Added Pin To Net: NetName=GND Pin=U300-23
+Added Pin To Net: NetName=+3v3 Pin=U300-24
+Added Pin To Net: NetName=SWDIO Pin=U300-34
+Added Pin To Net: NetName=GND Pin=U300-35
+Added Pin To Net: NetName=+3v3 Pin=U300-36
+Added Pin To Net: NetName=SWCLK Pin=U300-37
+Added Pin To Net: NetName=NetR301_1 Pin=U300-44
+Added Pin To Net: NetName=GND Pin=U300-47
+Added Pin To Net: NetName=+3v3 Pin=U300-48
+Added Pin To Net: NetName=OSC_OUT Pin=Y300-1
+Added Pin To Net: NetName=OSC_IN Pin=Y300-2
+Added Pin To Net: NetName=ADC1 Pin=R100-2
+Added Pin To Net: NetName=ADC1 Pin=R101-1
+Added Pin To Net: NetName=ADC1 Pin=U300-11
+Added Net: Name=ADC1
+Added Pin To Net: NetName=ADC2 Pin=C100-1
+Added Pin To Net: NetName=ADC2 Pin=Q100-2
+Added Pin To Net: NetName=ADC2 Pin=U300-12
+Added Net: Name=ADC2
+Added Pin To Net: NetName=PA0 Pin=J100-1
+Added Pin To Net: NetName=PA0 Pin=U300-10
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA3 Pin=J100-2
+Added Pin To Net: NetName=PA3 Pin=U300-13
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=J100-3
+Added Pin To Net: NetName=PA4 Pin=U300-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=J100-4
+Added Pin To Net: NetName=PA5 Pin=U300-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=J100-5
+Added Pin To Net: NetName=PA6 Pin=U300-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=J100-6
+Added Pin To Net: NetName=PA7 Pin=U300-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=J102-3
+Added Pin To Net: NetName=PA8 Pin=U300-29
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=J102-4
+Added Pin To Net: NetName=PA9 Pin=U300-30
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=J102-5
+Added Pin To Net: NetName=PA10 Pin=U300-31
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=J102-6
+Added Pin To Net: NetName=PA11 Pin=U300-32
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=J102-7
+Added Pin To Net: NetName=PA12 Pin=U300-33
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=J102-8
+Added Pin To Net: NetName=PA15 Pin=U300-38
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=J100-7
+Added Pin To Net: NetName=PB0 Pin=U300-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=J100-8
+Added Pin To Net: NetName=PB1 Pin=U300-19
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=J100-9
+Added Pin To Net: NetName=PB2 Pin=U300-20
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=J102-9
+Added Pin To Net: NetName=PB3 Pin=U300-39
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=J102-10
+Added Pin To Net: NetName=PB4 Pin=U300-40
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=J102-11
+Added Pin To Net: NetName=PB5 Pin=U300-41
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB8 Pin=J102-12
+Added Pin To Net: NetName=PB8 Pin=U300-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=J102-13
+Added Pin To Net: NetName=PB9 Pin=U300-46
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=J100-10
+Added Pin To Net: NetName=PB10 Pin=U300-21
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=J100-11
+Added Pin To Net: NetName=PB11 Pin=U300-22
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=J100-12
+Added Pin To Net: NetName=PB12 Pin=U300-25
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=J100-13
+Added Pin To Net: NetName=PB13 Pin=U300-26
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=J102-1
+Added Pin To Net: NetName=PB14 Pin=U300-27
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=J102-2
+Added Pin To Net: NetName=PB15 Pin=U300-28
+Added Net: Name=PB15
+Added Pin To Net: NetName=SCL Pin=J101-3
+Added Pin To Net: NetName=SCL Pin=U300-42
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J101-4
+Added Pin To Net: NetName=SDA Pin=U300-43
+Added Net: Name=SDA
+Added Class: Name=FoxSense_Schematic
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component C200 2.2uF
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component C201 100nF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C300 100nF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C301 100nF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C302 1uF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C303 10uF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C304 100nF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C305 100nF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C306 100nF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C307 20pF
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component C308 20pF
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component D200 LED_SMD_0805
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component D300 RED LED
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component J200 USB_C_6_pin
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component J300 Pin_Header_4
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component R200 330 ohm
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component R201 5.1k ohm
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component R202 5.1k ohm
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component R300 330 ohm
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component R301 10K ohm
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component R302 10K ohm
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component T200 Test_Point_SMD
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component T201 Test_Point_SMD
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component T202 Test_Point_SMD
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component T300 Test_Point_SMD
+Added Member To Class: ClassName=U_FoxSense_Power Member=Component U200 LF33_DPAK
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component U300 STM32f103c8t6_LQFP48
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component Y300 XTAL 8MHz

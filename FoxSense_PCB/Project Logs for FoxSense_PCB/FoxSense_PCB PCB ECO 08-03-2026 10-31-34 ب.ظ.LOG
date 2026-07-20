@@ -1,0 +1,3 @@
+Added Component: Designator=R?(Resistor_SMD_0805)
+Added Pin To Net: NetName=+3v3 Pin=R?-1
+Added Class: Name=FoxSense_Schematic

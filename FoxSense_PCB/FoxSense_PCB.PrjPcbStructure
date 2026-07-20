@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=FoxSense_Schematic.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=FoxSense_Schematic.SchDoc|Designator=U_FoxSense_Microcontroller|SchDesignator=U_FoxSense_Microcontroller|FileName=FoxSense_Microcontroller.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=FoxSense_Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=FoxSense_Schematic.SchDoc|Designator=U_FoxSense_Power|SchDesignator=U_FoxSense_Power|FileName=FoxSense_Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=FoxSense_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

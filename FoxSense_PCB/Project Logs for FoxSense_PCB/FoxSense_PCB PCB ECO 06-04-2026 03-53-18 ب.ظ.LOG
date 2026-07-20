@@ -1,0 +1,3 @@
+Added Component: Designator=T300(TEST_Point_SMD)
+Added Pin To Net: NetName=NRST Pin=T300-1
+Added Member To Class: ClassName=U_FoxSense_Microcontroller Member=Component T300 Test_Point_SMD

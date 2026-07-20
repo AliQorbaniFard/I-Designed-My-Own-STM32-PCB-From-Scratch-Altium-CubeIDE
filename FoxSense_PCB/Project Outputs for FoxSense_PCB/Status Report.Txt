@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FoxSense_PCB.PrjPcb]
+   Generated File[FoxSense_PCB-RoundHoles-Plated.TXT]
+   Generated File[FoxSense_PCB-SlotHoles-Plated.TXT]
+   Generated File[FoxSense_PCB.LDP]
+   Generated File[FoxSense_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 08:57:06 ?.? On 09/06/2026
