@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="ChatGPT Image Jul 20, 2026, 09_50_39 PM" src="https://github.com/user-attachments/assets/24fb739e-ce69-4e84-9d4e-a5c22f146077" />
+
+
 FoxSense STM32 - Custom PCB Development Board
 
 A custom STM32 development board designed from scratch using Altium Designer, programmed with STM32CubeIDE, and built for learning embedded systems, PCB design, and analog sensor interfacing.
