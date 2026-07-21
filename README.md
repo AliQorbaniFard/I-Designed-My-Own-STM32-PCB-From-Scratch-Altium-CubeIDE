@@ -14,17 +14,17 @@ The board measures temperature using an LM35 sensor and ambient light intensity 
 This repository contains everything needed to understand and reproduce the project, including the complete Altium Designer files and STM32 firmware.
 
 ## ✨ Features
-✅ Custom STM32F103C8T6 PCB
-✅ USB Type-C power input
-✅ 3.3 V power supply using LF33 regulator
-✅ 8 MHz external crystal oscillator
-✅ LM35 temperature sensor interface
-✅ LDR light sensor interface
-✅ SSD1306 0.96" OLED display
-✅ ADC-based sensor acquisition
-✅ SWD programming/debug connector
-✅ GPIO expansion headers
-✅ Compact and beginner-friendly hardware design
+* ✅ Custom STM32F103C8T6 PCB
+* ✅ USB Type-C power input
+* ✅ 3.3 V power supply using LF33 regulator
+* ✅ 8 MHz external crystal oscillator
+* ✅ LM35 temperature sensor interface
+* ✅ LDR light sensor interface
+* ✅ SSD1306 0.96" OLED display
+* ✅ ADC-based sensor acquisition
+* ✅ SWD programming/debug connector
+* ✅ GPIO expansion headers
+* ✅ Compact and beginner-friendly hardware design
 
 
 ## 🛠 Hardware Components
